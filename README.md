@@ -6,4 +6,5 @@ This repository contains the smart contracts source code for Australis Protocol.
 
 ## Documentation
 
-The documentation of Australis is in the following [Australis documentation](https://docs.australis.finance)# contracts
+The documentation of Australis is in the following [Australis documentation](https://docs.australis.finance)
+
